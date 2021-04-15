@@ -2,3 +2,4 @@ commit on master
 commit on develop
 commit on feature
 commit on featureLeft (clone repo)
+commit 2 on featureLeft (clone repo)
